@@ -40,5 +40,6 @@ stories:
   - action: pizza_order_form
   - active_loop: pizza_order_form
   - active_loop: null
+  - action: get_pizza_order
   - action: utter_pizza_selected
 
